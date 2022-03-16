@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\bin\Release\net5.0\PB-Assignment.exe
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\bin\Release\net5.0\PB-Assignment.deps.json
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\bin\Release\net5.0\PB-Assignment.runtimeconfig.json
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\bin\Release\net5.0\PB-Assignment.runtimeconfig.dev.json
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\bin\Release\net5.0\PB-Assignment.dll
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\bin\Release\net5.0\PB-Assignment.pdb
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\obj\Release\net5.0\PB-Assignment.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\obj\Release\net5.0\PB-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\obj\Release\net5.0\PB-Assignment.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\obj\Release\net5.0\PB-Assignment.AssemblyInfo.cs
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\obj\Release\net5.0\PB-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\obj\Release\net5.0\PB-Assignment.dll
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\obj\Release\net5.0\refint\PB-Assignment.dll
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\obj\Release\net5.0\PB-Assignment.pdb
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\obj\Release\net5.0\PB-Assignment.genruntimeconfig.cache
+C:\Users\HP\source\repos\PB-Assignment\PB-Assignment\obj\Release\net5.0\ref\PB-Assignment.dll
